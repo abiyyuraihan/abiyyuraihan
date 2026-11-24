@@ -1,36 +1,71 @@
-<h1 align="center">Hi 👋, I'm M. Abiyyu Raihan</h1>
-<h3 align="center">A passionate Artificial Intelligence and BackEnd Developer from Indonesia</h3>
+<h1 align="center">Abiyyu Raihan</h1>
 
-<img align="right" alt="Coding" width="400" src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=1200&q=85">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abiyyuraihan&label=Profile%20views&color=0e75b6&style=flat" alt="abiyyuraihan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/jabrikh624" target="blank"><img src="https://img.shields.io/twitter/follow/jabrikh624?logo=twitter&style=for-the-badge" alt="jabrikh624" /></a> </p>
-
-- 🔭 I’m currently working on **Gesang Contractors**
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 👯 I’m looking to collaborate on **Artificial Intelligence Project**
-
-- 💬 Ask me about **Laravel, Arduino UNO, C, Python, C++**
-
-- 📫 How to reach me **abiyyuraihan.6@gmail.com**
-
-- ⚡ Fun fact **I Think I'm Ambivert**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jabrikh624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jabrikh624" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abiyyu raihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiyyu raihan" height="30" width="40" /></a>
-<a href="https://instagram.com/_abiyyuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abiyyuu" height="30" width="40" /></a>
+<p align="center">
+  <b>Full Stack Developer</b> · Computer Science<br>
+  I build web applications end to end, from the interface to the data behind it.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/abiyyuraihan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://contractor.gesangmusic.com/"><img src="https://img.shields.io/badge/Work-GesangCon-9a6a08?style=flat-square" alt="GesangCon"></a>
+  <!-- TODO: replace the links below with your own, then remove this comment -->
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiyyuraihan&show_icons=true&locale=en&layout=compact" alt="abiyyuraihan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiyyuraihan&show_icons=true&locale=en" alt="abiyyuraihan" /></p>
+## About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abiyyuraihan&" alt="abiyyuraihan" /></p>
+- Full Stack Developer at **Gesang Contractors**, where I built the company website for [GesangCon](https://contractor.gesangmusic.com/), an office furniture and interior business.
+- I work mainly with **React, Next.js, TypeScript, Tailwind CSS and Node.js**, and I also use **.NET** on the backend.
+- I use **Python** for data analysis and machine learning, and I am building a data case study around my own business, Gesang Coffee & Matcha.
+- I like projects that connect real data and real users: payments, shipping, live market data, and the admin tools that keep them running.
+
+## Tech stack
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+
+**Backend and data**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+
+## Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[GesanGplex](https://github.com/abiyyuraihan/gesangplex)** · [demo](https://gesangplex.vercel.app/) | E-commerce platform for plywood and interior materials with custom-cut ordering, DOKU payments, live Biteship shipping rates and an admin back office. Includes a 2D cutting optimizer that lays out pieces on a sheet to reduce waste. | Next.js, TypeScript, PostgreSQL, Drizzle ORM, Auth.js, Tailwind CSS |
+| **[XAU Sentinel](https://github.com/abiyyuraihan/xau-sentinel)** · [demo](https://xau-sentinel.vercel.app/) | Dashboard that watches gold (XAU/USD) around US economic releases and breaking news, and blends technical, release and news signals into one rule-based score. Research tool for demo accounts, not financial advice. | Next.js, TypeScript, Tailwind CSS, Lightweight Charts |
+| **[BeeSnap](https://github.com/abiyyuraihan/beesnap)** · [demo](https://beesnap-rotd.vercel.app/) | Browser-based photo booth: four countdown shots from the webcam, six camera filters, and a print-ready PNG collage on five themed templates. Runs fully client-side. | React, Vite, Tailwind CSS, Canvas API |
+
+## Work
+
+**Full Stack Developer, Gesang Contractors**
+<br>
+Company website for GesangCon: product showcase by delivery region, image carousels with specifications, project gallery, FAQ and testimonials, linked to the company's order channels. [contractor.gesangmusic.com](https://contractor.gesangmusic.com/)
+
+## Currently
+
+- Planning a location-analysis project with Python to help choose where a new branch of a small business should open in Jabodetabek.
+- Strengthening my SQL for data analysis and data engineering work.
+
+---
+
+<p align="center">
+  Thanks for stopping by. If you want to talk about a project or a role, feel free to reach out.
+</p>
